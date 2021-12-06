@@ -1,3 +1,0 @@
-/home/pohaha/DEV/CPP/Вычислительные системы сети и телекоммуникации/lab-1/out/build/CMakeFiles/rebuild_cache.dir
-/home/pohaha/DEV/CPP/Вычислительные системы сети и телекоммуникации/lab-1/out/build/CMakeFiles/edit_cache.dir
-/home/pohaha/DEV/CPP/Вычислительные системы сети и телекоммуникации/lab-1/out/build/CMakeFiles/Lab_1.dir
